@@ -1,4 +1,4 @@
-package ro.bogdan.mocanu;
+package ro.abstractfactory.pattern;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 

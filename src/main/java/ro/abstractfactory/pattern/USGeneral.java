@@ -1,4 +1,4 @@
-package ro.bogdan.mocanu;
+package ro.abstractfactory.pattern;
 
 public class USGeneral implements General {
 
